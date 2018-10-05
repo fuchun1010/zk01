@@ -49,4 +49,14 @@
             <artifactId>spring-boot-starter-jersey</artifactId>
         </dependency>
     </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+        <finalName>service</finalName>
+    </build>
 </project>
