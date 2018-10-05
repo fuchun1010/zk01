@@ -3,5 +3,5 @@ target/
 zk.iml
 core/core.iml
 message/message.iml
-core/target
-message/target
+core/target/
+message/target/
