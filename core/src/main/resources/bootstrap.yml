@@ -5,3 +5,4 @@ spring:
     zookeeper:
       discovery:
         enabled: true
+      connect-string: localhost:2181
