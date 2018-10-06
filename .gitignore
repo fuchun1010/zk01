@@ -3,5 +3,7 @@ target/
 zk.iml
 core/core.iml
 message/message.iml
+service/service.iml
 core/target/
 message/target/
+service/target/
